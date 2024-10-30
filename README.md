@@ -1,6 +1,8 @@
 <div align="center">
-
+  
 # Hi, I'm Zakir 👋
+
+</div>
 
 🎓 **Studied**: Computer Science graduate turned Data Analyst, currently expanding my skills in analytics and visualization.<br>
 💻 **Experienced in**: SQL, Python, Power BI, and BigQuery. Whether it's understanding what drives customer satisfaction or optimizing performance, I love using data to tell a story.<br>
@@ -8,6 +10,8 @@
 👯 **I’m looking to collaborate on**: Fun and meaningful data projects! Whether it's analyzing trends in health and wellness, visualizing environmental data to raise awareness, or exploring patterns in pop culture (think movies, music, or gaming!), I'm all in for projects that make an impact and spark curiosity.<br>
 ⚡ **Fun Fact**: I have a slight obsession with tracking and improving my personal metrics—not just in data projects but in everyday life, from fitness goals to gaming stats. Always on the lookout for patterns and ways to level up!
 
+<div align="center">
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakir-ahmed-09zi/)
 
