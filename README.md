@@ -37,13 +37,13 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Zakir09&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zakir09&theme=highcontrast&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakir09&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakir09&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zakir09&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Zakir09&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)
