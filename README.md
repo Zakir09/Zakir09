@@ -4,11 +4,11 @@
 
 </div>
 
-🎓 **Studied**: Computer Science graduate turned Data Analyst, currently expanding my skills in analytics and visualization.<br>
-💻 **Experienced in**: SQL, Python, Power BI, and BigQuery. Whether it's understanding what drives customer satisfaction or optimizing performance, I love using data to tell a story.<br>
-📈 **Currently Learning**: Deep diving into machine learning and honing my data storytelling skills. On a mission to make dashboards that actually engage people!<br>
-👯 **I’m looking to collaborate on**: Fun and meaningful data projects! Whether it's analyzing trends in health and wellness, visualizing environmental data to raise awareness, or exploring patterns in pop culture (think movies, music, or gaming!), I'm all in for projects that make an impact and spark curiosity.<br>
-⚡ **Fun Fact**: I have a slight obsession with tracking and improving my personal metrics—not just in data projects but in everyday life, from fitness goals to gaming stats. Always on the lookout for patterns and ways to level up!
+🎓 **Background**: Computer Science graduate with a drive for data analytics and software development, blending insights and technology to solve problems and build impactful solutions.<br>
+💻 **Experienced in**: SQL, Python, BigQuery, Power BI, HTML, CSS, JavaScript, and APIs. From analyzing customer trends to creating interactive tools, I enjoy using data and code to solve problems and optimize processes.<br>
+📈 **Currently Learning**: Advancing my skills in machine learning, backend development like Flask, Django and Node.js, React for frontend development, and PostgreSQL for databases to create solutions that are both functional and user-friendly.<br>
+👯 **I’m looking to collaborate on**: Projects across data and software! Whether it's uncovering insights in health and wellness, visualizing environmental data, building apps that simplify life, or exploring patterns in gaming, music, or pop culture. I'm all in for projects that make an impact and spark curiosity.<br>
+⚡ **Fun Fact**: I have a slight obsession with tracking and improving my personal metrics. Not just in data projects but in everyday life, from fitness goals to gaming stats. Always on the lookout for patterns and ways to level up!
 
 <div align="center">
   
@@ -17,6 +17,14 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
@@ -24,17 +32,8 @@
 ![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/powerbi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-%231F4A8A.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
-![Google Looker Studio](https://img.shields.io/badge/Google%20Data%20Studio-%2348A9E0.svg?style=for-the-badge&logo=google-data-studio&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+
+
 
 
 <!-- # 📊 GitHub Stats:
