@@ -1,6 +1,9 @@
 <div align="center">
   
-# Hi, I'm Zakir 👋
+<p align="center">
+  <img src="assets/glitch-header-banner.gif" alt="Zakir typewriter intro" width="500">
+</p>
+
 
 </div>
 
