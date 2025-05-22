@@ -14,9 +14,6 @@
 ⚡ **Fun Fact**: I have a slight obsession with tracking and improving my personal metrics. Not just in data projects but in everyday life, from fitness goals to gaming stats. Always on the lookout for patterns and ways to level up!
 
 <div align="center">
-  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakir-ahmed-09zi/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -37,7 +34,8 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-%231F4A8A.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
 
-
+<!--## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakir-ahmed-09zi/)-->
 
 <!-- # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Zakir09&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -47,12 +45,12 @@
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Zakir09&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4) -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)
+<!--### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)-->
 
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Zakir09&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=Zakir09&icon=6&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Zakir09&icon=6&color=2)](https://visitcount.itsvg.in)-->
 
 </div>
