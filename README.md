@@ -29,30 +29,48 @@ Deploying purpose with every keystroke, building systems from the shadows.
 </div>
 </div>
 
-
+<div align="center">
 █▀▀▀▀▀▀▀▀▀ WHO I AM ▀▀▀▀▀▀▀▀▀█ 
-
+</div>
+</br>
 A COMPUTER SCIENCE GRAD WIRED FOR DATA AND CODE — BLENDING COLD LOGIC WITH CREATIVE SPARK TO BUILD TOOLS THAT DISRUPT AND ILLUMINATE.
 
+</br>
+</br>
+<div align="center">
 █▀▀▀▀▀▀▀▀▀ MY TOOLKIT ▀▀▀▀▀▀▀▀▀█ 
-
+</div>
+</br>
 SQL, PYTHON, BIGQUERY, POWER BI, HTML, CSS, JAVASCRIPT, APIs — SLICING THROUGH DATA AND CODE TO DECODE PATTERNS AND OPTIMISE OUTCOMES.
 
+</br>
+</br>
+<div align="center">
 █▀▀▀▀▀ CURRENTLY HACKING ▀▀▀▀▀█  
-
+</div>
+</br>
 MACHINE LEARNING PIPELINES, BACKEND FRAMEWORKS (FLASK, DJANGO, NODE.JS), REACT FRONTEND BUILDS, AND POSTGRESQL DATABASES — CRAFTING FULL-STACK CYBERNETIC SOLUTIONS.
 
+</br>
+</br>
+<div align="center">
 █▀▀▀▀▀▀▀▀▀ MISSION ▀▀▀▀▀▀▀▀▀█  
-
+</div>
+</br>
 COLLABORATE ON PROJECTS THAT MATTER — FROM HEALTH & WELLNESS INSIGHTS TO ENVIRONMENTAL DATA, GAMING PATTERNS TO CULTURAL ANALYTICS. IF IT’S DATA OR CODE THAT SPARKS CURIOSITY, I’M IN.
 
+</br>
+</br>
+<div align="center">
 █▀▀▀▀▀▀▀▀ FUN FACT ▀▀▀▀▀▀▀▀█
-
+</div>
+</br>
 DATA IS MY PLAYGROUND — TRACKING AND LEVELLING UP PERSONAL METRICS IN LIFE AND CODE, ALWAYS SEARCHING FOR THAT NEXT BREAKTHROUGH PATTERN.
 
-<div align="center">
 
-# 💻 Tech Stack:
+
+## ⚡ CIRCUIT BOARD: Core Stack
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -68,11 +86,12 @@ DATA IS MY PLAYGROUND — TRACKING AND LEVELLING UP PERSONAL METRICS IN LIFE AND
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/powerbi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-%231F4A8A.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-%231F4A8A.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 
 <!-- Mascot GIF -->
 <p align="center">
-  <img src="assets/angry-robot.gif" height="60">
+  <img src="assets/angry-robot.gif" width="60">
 </p>
 
 <!--## 🌐 Socials:
