@@ -1,17 +1,54 @@
-<div align="center">
-  
 <p align="center">
-  <img src="assets/glitch-header-banner.gif" alt="Zakir typewriter intro" width="500">
+  <img src="assets/glitch-header-banner.gif" alt="Track Everything | Build What Matters | Stay Curious" width="500">
 </p>
 
+<div align="left" style="max-width: 600px; font-family: monospace;">
 
+` bash `   ` zsh `   ` powershell `
+
+<div style="background-color:#0d0d0d; color:#08F7FE; padding: 16px 24px; border-radius: 0 0 12px 12px; font-family: monospace; font-size: 14px; text-align: left;">
+<pre style="margin: 0; white-space: pre-wrap;">
+$ whoami
+zakir
+  
+$ echo "Data tinkerer, code crafter, insight hunter"
+Data tinkerer, code crafter, insight hunter
+
+$ cd projects/fullstack
+
+$ ls
+README.md  app.py  data_analysis.ipynb  metrics_tracker.js
+
+$ cat README.md
+Neon-lit code runner, hacking data streams in the digital sprawl.
+Chasing patterns in the noise — metrics are my pulse, growth my firmware.
+Deploying purpose with every keystroke, building systems from the shadows.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flickering_cursor.gif" alt="Flickering cursor" width="5" height="20" style="vertical-align: bottom; margin-left: 2px;" />
+</pre>
+</div>
 </div>
 
-🎓 **Background**: Computer Science graduate with a drive for data analytics and software development, blending insights and technology to solve problems and build impactful solutions.<br>
-💻 **Experienced in**: SQL, Python, BigQuery, Power BI, HTML, CSS, JavaScript, and APIs. From analyzing customer trends to creating interactive tools, I enjoy using data and code to solve problems and optimize processes.<br>
-📈 **Currently Learning**: Advancing my skills in machine learning, backend development like Flask, Django and Node.js, React for frontend development, and PostgreSQL for databases to create solutions that are both functional and user-friendly.<br>
-👯 **I’m looking to collaborate on**: Projects across data and software! Whether it's uncovering insights in health and wellness, visualizing environmental data, building apps that simplify life, or exploring patterns in gaming, music, or pop culture. I'm all in for projects that make an impact and spark curiosity.<br>
-⚡ **Fun Fact**: I have a slight obsession with tracking and improving my personal metrics. Not just in data projects but in everyday life, from fitness goals to gaming stats. Always on the lookout for patterns and ways to level up!
+
+█▀▀▀▀▀▀▀▀▀ WHO I AM ▀▀▀▀▀▀▀▀▀█ 
+
+A COMPUTER SCIENCE GRAD WIRED FOR DATA AND CODE — BLENDING COLD LOGIC WITH CREATIVE SPARK TO BUILD TOOLS THAT DISRUPT AND ILLUMINATE.
+
+█▀▀▀▀▀▀▀▀▀ MY TOOLKIT ▀▀▀▀▀▀▀▀▀█ 
+
+SQL, PYTHON, BIGQUERY, POWER BI, HTML, CSS, JAVASCRIPT, APIs — SLICING THROUGH DATA AND CODE TO DECODE PATTERNS AND OPTIMISE OUTCOMES.
+
+█▀▀▀▀▀ CURRENTLY HACKING ▀▀▀▀▀█  
+
+MACHINE LEARNING PIPELINES, BACKEND FRAMEWORKS (FLASK, DJANGO, NODE.JS), REACT FRONTEND BUILDS, AND POSTGRESQL DATABASES — CRAFTING FULL-STACK CYBERNETIC SOLUTIONS.
+
+█▀▀▀▀▀▀▀▀▀ MISSION ▀▀▀▀▀▀▀▀▀█  
+
+COLLABORATE ON PROJECTS THAT MATTER — FROM HEALTH & WELLNESS INSIGHTS TO ENVIRONMENTAL DATA, GAMING PATTERNS TO CULTURAL ANALYTICS. IF IT’S DATA OR CODE THAT SPARKS CURIOSITY, I’M IN.
+
+█▀▀▀▀▀▀▀▀ FUN FACT ▀▀▀▀▀▀▀▀█
+
+DATA IS MY PLAYGROUND — TRACKING AND LEVELLING UP PERSONAL METRICS IN LIFE AND CODE, ALWAYS SEARCHING FOR THAT NEXT BREAKTHROUGH PATTERN.
 
 <div align="center">
 
@@ -33,6 +70,10 @@
 ![Power BI](https://img.shields.io/badge/powerbi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-%231F4A8A.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
+<!-- Mascot GIF -->
+<p align="center">
+  <img src="assets/angry-robot.gif" height="60">
+</p>
 
 <!--## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakir-ahmed-09zi/)-->
