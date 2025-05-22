@@ -29,6 +29,11 @@ Deploying purpose with every keystroke, building systems from the shadows.
 </div>
 </div>
 
+<!-- Mascot GIF -->
+<p align="center">
+  <img src="assets/angry-robot.gif" width="60">
+</p>
+
 <div align="center">
 █▀▀▀▀▀▀▀▀▀ WHO I AM ▀▀▀▀▀▀▀▀▀█ 
 </div>
@@ -91,7 +96,7 @@ DATA IS MY PLAYGROUND — TRACKING AND LEVELLING UP PERSONAL METRICS IN LIFE AND
 
 <!-- Mascot GIF -->
 <p align="center">
-  <img src="assets/angry-robot.gif" width="60">
+  <img src="assets/heart-bot.gif" width="60">
 </p>
 
 <!--## 🌐 Socials:
