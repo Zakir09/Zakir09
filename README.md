@@ -48,6 +48,7 @@ $ logout
 </pre>
 </div>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakir-ahmed-09zi/)
 
 <!-- Mascot GIF -->
 <p align="center">
