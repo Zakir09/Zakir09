@@ -48,7 +48,11 @@ $ logout
 </pre>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakir-ahmed-09zi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?logo=linkedin&logoColor=%230AB2FF)](https://www.linkedin.com/in/zakir-ahmed-09zi/)
+[![Email](https://img.shields.io/badge/Email-0f0f0f?logo=gmail&logoColor=%2300FF90)](mailto:zakirahmed2002@hotmail.com)
+[![Discord](https://img.shields.io/badge/Discord-0f0f0f?logo=discord&logoColor=%235865F2)](https://discord.com/users/422833197160726528)
+
+
 
 <!-- Mascot GIF -->
 <p align="center">
