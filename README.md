@@ -2,78 +2,60 @@
   <img src="assets/glitch-header-banner.gif" alt="Track Everything | Build What Matters | Stay Curious" width="500">
 </p>
 
-<div align="left" style="max-width: 600px; font-family: monospace;">
+<div align="left">
 
 ` bash `   ` zsh `   ` powershell `
 
-<div style="background-color:#0d0d0d; color:#08F7FE; padding: 16px 24px; border-radius: 0 0 12px 12px; font-family: monospace; font-size: 14px; text-align: left;">
-<pre style="margin: 0; white-space: pre-wrap;">
+<pre>
 $ whoami
 zakir
-  
-$ echo "Data tinkerer, code crafter, insight hunter"
-Data tinkerer, code crafter, insight hunter
 
-$ cd projects/fullstack
+$ cat ~/bio.txt
+Computer science grad. Data-driven builder. Curious mind.
+Translating complexity into clarity through code and analysis.
+
+$ cd ~/projects/
 
 $ ls
-README.md  app.py  data_analysis.ipynb  metrics_tracker.js
+README.md     manga_recommender/     political_classifier/     sales_analysis/
 
 $ cat README.md
-Neon-lit code runner, hacking data streams in the digital sprawl.
-Chasing patterns in the noise — metrics are my pulse, growth my firmware.
-Deploying purpose with every keystroke, building systems from the shadows.
+Focused on crafting clean, meaningful software and data tools.
+Passionate about understanding users and surfacing insights.
 
+$ cd ~/systems/
+$ ls
+stack.txt     current_ops.txt     mission.log
+
+$ cat stack.txt
+Python, SQL, React, Node.js, Flask, Power BI, C#, Java
+
+$ cat current_ops.txt
+→ Designing full-stack web tools 
+→ Building dashboards and ML pipelines
+→ Writing clean, testable code
+
+$ cat mission.log
+Collaborating on projects that spark curiosity — from health tech to cultural analytics.
+
+$ cat ~/secret.log
+ACCESS GRANTED: Curious reader detected.
+Run `connect --me` if you're into clean code, messy ideas, and good music.
+
+$ logout
+  
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flickering_cursor.gif" alt="Flickering cursor" width="5" height="20" style="vertical-align: bottom; margin-left: 2px;" />
 </pre>
 </div>
-</div>
+
 
 <!-- Mascot GIF -->
 <p align="center">
-  <img src="assets/angry-robot.gif" width="60">
+  <img src="assets/heart-bot.gif" width="60">
 </p>
 
-<div align="center">
-█▀▀▀▀▀▀▀▀▀ WHO I AM ▀▀▀▀▀▀▀▀▀█ 
-</div>
-</br>
-A COMPUTER SCIENCE GRAD WIRED FOR DATA AND CODE — BLENDING COLD LOGIC WITH CREATIVE SPARK TO BUILD TOOLS THAT DISRUPT AND ILLUMINATE.
 
-</br>
-</br>
-<div align="center">
-█▀▀▀▀▀▀▀▀▀ MY TOOLKIT ▀▀▀▀▀▀▀▀▀█ 
-</div>
-</br>
-SQL, PYTHON, BIGQUERY, POWER BI, HTML, CSS, JAVASCRIPT, APIs — SLICING THROUGH DATA AND CODE TO DECODE PATTERNS AND OPTIMISE OUTCOMES.
-
-</br>
-</br>
-<div align="center">
-█▀▀▀▀▀ CURRENTLY HACKING ▀▀▀▀▀█  
-</div>
-</br>
-MACHINE LEARNING PIPELINES, BACKEND FRAMEWORKS (FLASK, DJANGO, NODE.JS), REACT FRONTEND BUILDS, AND POSTGRESQL DATABASES — CRAFTING FULL-STACK CYBERNETIC SOLUTIONS.
-
-</br>
-</br>
-<div align="center">
-█▀▀▀▀▀▀▀▀▀ MISSION ▀▀▀▀▀▀▀▀▀█  
-</div>
-</br>
-COLLABORATE ON PROJECTS THAT MATTER — FROM HEALTH & WELLNESS INSIGHTS TO ENVIRONMENTAL DATA, GAMING PATTERNS TO CULTURAL ANALYTICS. IF IT’S DATA OR CODE THAT SPARKS CURIOSITY, I’M IN.
-
-</br>
-</br>
-<div align="center">
-█▀▀▀▀▀▀▀▀ FUN FACT ▀▀▀▀▀▀▀▀█
-</div>
-</br>
-DATA IS MY PLAYGROUND — TRACKING AND LEVELLING UP PERSONAL METRICS IN LIFE AND CODE, ALWAYS SEARCHING FOR THAT NEXT BREAKTHROUGH PATTERN.
-
-
-
+<!--##
 ## ⚡ CIRCUIT BOARD: Core Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -94,28 +76,24 @@ DATA IS MY PLAYGROUND — TRACKING AND LEVELLING UP PERSONAL METRICS IN LIFE AND
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-%231F4A8A.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-<!-- Mascot GIF -->
-<p align="center">
-  <img src="assets/heart-bot.gif" width="60">
-</p>
+ 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakir-ahmed-09zi/)
 
-<!--## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakir-ahmed-09zi/)-->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Zakir09&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zakir09&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakir09&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Zakir09&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zakir09&theme=highcontrast&hide_border=false)<br/> -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakir09&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Zakir09&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zakir09&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4) -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)
 
-<!--### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)-->
-
-<!--### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Zakir09&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=Zakir09&icon=6&color=2)](https://visitcount.itsvg.in)-->
+[![](https://visitcount.itsvg.in/api?id=Zakir09&icon=6&color=2)](https://visitcount.itsvg.in)
 
 </div>
+-->
